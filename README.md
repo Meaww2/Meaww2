@@ -1,9 +1,11 @@
 <div align="center">
-  Hi everyone 👋
+  <h1>Hi everyone 👋</h1>
 </div>
-My name is Rachata Thananchai.
-Computer Science [CMU]()
 
+My name is Rachata Thananchai.  
+Computer Science [Chiang Mai Univercity](https://www.cs.science.cmu.ac.th/)
+Technology Stack:
+Contact me:
 <!--
 **Meaww2/Meaww2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
