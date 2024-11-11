@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  Hi everyone 👋
+</div>
+My name is Rachata Thananchai.
+Computer Science [CMU]()
 
 <!--
 **Meaww2/Meaww2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
