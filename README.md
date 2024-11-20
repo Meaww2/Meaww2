@@ -3,9 +3,10 @@
 </div>
 
 My name is Rachata Thananchai.  
-Computer Science [Chiang Mai Univercity](https://www.cs.science.cmu.ac.th/)
-Technology Stack:
-Contact me:
+[Chiang Mai Univercity](https://www.cs.science.cmu.ac.th/)  
+*Computer Science*  
+Technology Stack: Python, C++, JavaScript, Go  
+Contact me:  childenchaos@gmail.com
 <!--
 **Meaww2/Meaww2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
