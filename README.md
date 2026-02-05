@@ -7,4 +7,4 @@ Now, I’m currently learning and imporve about my web or application developmen
 I'm study at [Chiang Mai Univercity](https://www.cs.science.cmu.ac.th/)  
 *Computer Science*  
 💻 Technology Stack: Ruby on Rails, Angular, Python, JavaScript, Go, React  
-📫 How to reach me:  childenchaos@gmail.com
+📫 How to reach me:  rachata.interview@gmail.com
